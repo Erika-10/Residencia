@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133062994327",
+    "firebase_url": "https://residencias-7c0d4.firebaseio.com",
+    "project_id": "residencias-7c0d4",
+    "storage_bucket": "residencias-7c0d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133062994327:android:9811200cbb3d0d30b13cd2",
+        "android_client_info": {
+          "package_name": "com.example.residencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133062994327-4s0d9j71qtrgchmtlbasrp2j3i9cvefg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.residencia",
+            "certificate_hash": "2e9c292d33c85c43d8afdd783f68f91690977552"
+          }
+        },
+        {
+          "client_id": "133062994327-d0jl5r6n2osq1e9a10br0eu0ev308fir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5P0Nu5FnDhi4udLIcjz5mFBFdO9UH-4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133062994327-d0jl5r6n2osq1e9a10br0eu0ev308fir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
